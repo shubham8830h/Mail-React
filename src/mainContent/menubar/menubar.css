@@ -1,0 +1,23 @@
+._ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;;
+    background-color: rgb(9, 150, 150);
+  }
+  
+  ._li {
+    float: left;
+  }
+  
+  ._li ._a {
+    display: block;
+    color: rgb(241, 233, 233);
+    text-align: center;
+    padding: 14px 16px;
+    
+    text-decoration: none;
+  }
+  
+  

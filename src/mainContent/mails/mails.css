@@ -1,0 +1,21 @@
+.mail__section{
+    height: 100%;
+    background: rgba(136, 136, 136, 0.089);
+}
+
+.mailElement{
+    border-top: 1px solid rgba(136, 136, 136, 0.452);
+    padding:0.4rem;
+    margin-top:0.6rem;
+}
+.mailContentPreview{
+    padding-left: 2rem;
+}
+
+.mId{
+    display: flex;
+    justify-content: space-between;
+}
+.true{
+    background: rgba(157, 25, 38, 0.596) !important;;
+}
